@@ -13,8 +13,24 @@ users to explore the wonders of the galaxy through captivating animations.
 - [Download](#download)
 
 ## Screenshots
-<img src="" alt="App Screenshot" width="200" height="400"/>
-<img src="" alt="App Screenshot" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/64039623-1fb7-4b6d-b5e6-cde9372c408e" alt="App Screenshot" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/49cf9c91-2420-4c0c-809f-352c9e1ddb4c" alt="App Screenshot" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/8379bfe1-aa4b-45d5-b894-a8dae3a6e1bf" alt="App Screenshot" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/58ce2a1e-a976-49ee-b0cc-4562d57dd8c3" alt="App Screenshot" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/12eb0421-b0aa-4af9-9068-19d959c23f8b" alt="App Screenshot" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/bf00bf53-e7fe-4577-8fc7-590a31647422" alt="App Screenshot" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/c747bb62-8028-4ed0-b228-06baa6f067d5" alt="App Screenshot" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/c36d4a42-12fe-4941-942a-7661fe677718" alt="App Screenshot" width="200" height="400"/>
+
+
+https://github.com/user-attachments/assets/eda4283c-8bc5-4b59-8f10-2984df07dd21
+
+
+https://github.com/user-attachments/assets/597145bc-c234-4b56-9b07-c4f56765c673
+
+
+
+https://github.com/user-attachments/assets/f8924543-559c-4bd8-aa80-6a7a0c91a450
 
 
 ## Features
@@ -40,5 +56,5 @@ users to explore the wonders of the galaxy through captivating animations.
 - **State Management**: To efficiently handle app state and updates.
 
 ## Download
-- [Download the app]()
+- [Download the app](https://drive.google.com/file/d/1dMwT6fYst5p7OUaT57jnFNLf-yRdWry3/view?usp=sharing)
 - And Install
