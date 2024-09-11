@@ -1,0 +1,92 @@
+{
+  "planets": [
+    {
+      "name": "Mercury",
+      "mass": "3.3011e23 kg",
+      "radius": "2,439.7 km",
+      "gravity": "3.7 m/s²",
+      "orbitalPeriod": "88 days",
+      "hasRings": false,
+      "image": "http://space-facts.com/wp-content/uploads/mercury-transparent.png",
+      "position": "first",
+      "description": "Mercury is the smallest planet in our solar system and closest to the Sun. It has no atmosphere and experiences extreme temperature fluctuations."
+    },
+    {
+      "name": "Venus",
+      "mass": "4.8675e24 kg",
+      "radius": "6,051.8 km",
+      "gravity": "8.87 m/s²",
+      "orbitalPeriod": "225 days",
+      "hasRings": false,
+      "image": "http://space-facts.com/wp-content/uploads/venus-transparent.png",
+      "position": "second",
+      "description": "Venus is often called Earth's twin due to its similar size. However, it has a thick atmosphere that traps heat, making it the hottest planet."
+    },
+    {
+      "name": "Earth",
+      "mass": "5.97237e24 kg",
+      "radius": "6,371 km",
+      "gravity": "9.81 m/s²",
+      "orbitalPeriod": "365 days",
+      "hasRings": false,
+      "image": "http://space-facts.com/wp-content/uploads/earth-transparent.png",
+      "position": "third",
+      "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life. It has a diverse climate and rich biodiversity."
+    },
+    {
+      "name": "Mars",
+      "mass": "6.4171e23 kg",
+      "radius": "3,389.5 km",
+      "gravity": "3.71 m/s²",
+      "orbitalPeriod": "687 days",
+      "hasRings": false,
+      "image": "http://space-facts.com/wp-content/uploads/mars-transparent.png",
+      "position": "fourth",
+      "description": "Mars, also known as the Red Planet, is famous for its reddish appearance and has the tallest volcano in the solar system, Olympus Mons."
+    },
+    {
+      "name": "Jupiter",
+      "mass": "1.8982e27 kg",
+      "radius": "69,911 km",
+      "gravity": "24.79 m/s²",
+      "orbitalPeriod": "12 years",
+      "hasRings": true,
+      "image": "http://space-facts.com/wp-content/uploads/jupiter-transparent.png",
+      "position": "fifth",
+      "description": "Jupiter is the largest planet in our solar system, known for its Great Red Spot, a giant storm, and its many moons including Ganymede, the largest moon."
+    },
+    {
+      "name": "Saturn",
+      "mass": "5.6834e26 kg",
+      "radius": "58,232 km",
+      "gravity": "10.44 m/s²",
+      "orbitalPeriod": "29 years",
+      "hasRings": true,
+      "image": "http://space-facts.com/wp-content/uploads/saturn-transparent.png",
+      "position": "sixth",
+      "description": "Saturn is known for its stunning ring system and is the second largest planet in the solar system. It has over 80 moons, including Titan."
+    },
+    {
+      "name": "Uranus",
+      "mass": "8.6810e25 kg",
+      "radius": "25,362 km",
+      "gravity": "8.69 m/s²",
+      "orbitalPeriod": "84 years",
+      "hasRings": true,
+      "image": "http://space-facts.com/wp-content/uploads/uranus-transparent.png",
+      "position": "seventh",
+      "description": "Uranus is unique due to its tilted axis, causing extreme seasonal variations. It's a gas giant with faint rings and a bluish-green color due to methane."
+    },
+    {
+      "name": "Neptune",
+      "mass": "1.02413e26 kg",
+      "radius": "24,622 km",
+      "gravity": "11.15 m/s²",
+      "orbitalPeriod": "165 years",
+      "hasRings": true,
+      "image": "http://space-facts.com/wp-content/uploads/neptune-transparent.png",
+      "position": "eighth",
+      "description": "Neptune is the farthest planet from the Sun, known for its deep blue color and strong winds. It has 14 known moons, including the largest, Triton."
+    }
+  ]
+}
